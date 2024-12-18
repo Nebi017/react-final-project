@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(4, 30, 57, 0.89);
+    color: white;
+}
+ header h1{
+    text-align: center;
+ }
+.movie-card{
+    border: 3px dotted rgba(31, 83, 174, 0.918);
+    width: 300px;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+.body{
+    padding: 10px;
+}
+
+img{
+    width: 300px;
+}

@@ -1,0 +1,21 @@
+input{
+    
+    width: 90%;
+    height: 42px;
+    background-color: rgba(2, 128, 124, 0.331);
+    border: none;
+    border-radius: 15px;
+    color:white;
+    margin: 10px;
+    font-size: large;    
+}
+.inpt{
+    display:flex;
+    justify-content: center;
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
