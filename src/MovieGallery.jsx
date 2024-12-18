@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import MovieCard from "./movieCard";
+import MovieCard from "./MovieCard.jsx";
 import './MovieGallery.css'
 
 const MovieGallery = () => {
